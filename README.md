@@ -9,21 +9,23 @@ Aspiring **Cloud Engineer** with a passion for leveraging cloud technologies to 
 - **DevOps:** Continuous Integration, Continuous Deployment (CI/CD), Docker, Linux
 
 ### 🔧 Technologies & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<p align="center">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&text=false" alt="AWS">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=googlecloud&text=false" alt="Google Cloud">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false" alt="Python">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=nextdotjs&text=false" alt="Next.js">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=false" alt="Tailwind CSS">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=nodedotjs&text=false" alt="Node.js">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=express&text=false" alt="Express.js">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=false" alt="TypeScript">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false" alt="JavaScript">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=go&text=false" alt="Go">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=dart&text=false" alt="Dart">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&text=false" alt="MongoDB">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=docker&text=false" alt="Docker">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false" alt="Linux">
+</p>
 
 ### 💻 Most Used Languages
 <p align="center">
