@@ -22,11 +22,10 @@ Aspiring **Cloud Engineer** with a passion for leveraging cloud technologies to 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📊 GitHub Stats
-![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=glng-swndru&show_icons=true&theme=radical)
-
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glng-swndru&layout=compact&theme=radical)
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glng-swndru&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
 
 ### 📫 Connect with Me
 - LinkedIn: [Gilang Swandaru](https://linkedin.com/in/gilang-swandaru)
