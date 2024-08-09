@@ -5,14 +5,14 @@ Aspiring **Cloud Engineer** with a passion for leveraging cloud technologies to 
 ### 🌱 What I'm Learning
 - **Cloud Technologies:** AWS, Google Cloud
 - **Programming:** Python, JavaScript, TypeScript, Go, Dart/Flutter
-- **Web Development:** Next.js, Tailwind CSS, Node.js, Express.js
+- **Web Development:** Next.js, Tailwind CSS, Node.js, Express.js, React
 - **DevOps:** Continuous Integration, Continuous Deployment (CI/CD), Docker, Linux
 
 ### 🔧 Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,python,typescript,js,go,dart,flutter,nextjs,react,tailwind,nodejs,express,mongodb,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,python,typescript,js,go,dart,flutter,nextjs,tailwind,nodejs,express,mongodb,docker,linux,vagrant,react,terraform,postgres,mysql" />
   </a>
 </p>
 
