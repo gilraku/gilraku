@@ -4,7 +4,7 @@ Aspiring **Cloud Engineer** with a passion for leveraging cloud technologies to 
 
 ### 🌱 What I'm Learning
 - **Cloud Technologies:** AWS, Google Cloud
-- **Programming:** Python, JavaScript, TypeScript, Go
+- **Programming:** Python, JavaScript, TypeScript, Go, Dart/Flutter
 - **Web Development:** Next.js, Tailwind CSS, Node.js, Express.js
 - **DevOps:** Continuous Integration, Continuous Deployment (CI/CD), Docker, Linux
 
@@ -18,6 +18,8 @@ Aspiring **Cloud Engineer** with a passion for leveraging cloud technologies to 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
