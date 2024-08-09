@@ -23,7 +23,7 @@ Aspiring **Cloud Engineer** with a passion for leveraging cloud technologies to 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 💻 Most Used Languages
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glng-swndru&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
