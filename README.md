@@ -12,7 +12,7 @@ Aspiring **Cloud Engineer** with a passion for leveraging cloud technologies to 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,python,typescript,js,go,dart,flutter,nextjs,tailwind,nodejs,express,mongodb,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,python,typescript,js,go,dart,flutter,nextjs,react,tailwind,nodejs,express,mongodb,docker,linux" />
   </a>
 </p>
 
