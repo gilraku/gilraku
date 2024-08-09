@@ -11,20 +11,9 @@ Aspiring **Cloud Engineer** with a passion for leveraging cloud technologies to 
 ### 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&text=false" alt="AWS">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=googlecloud&text=false" alt="Google Cloud">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false" alt="Python">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=nextdotjs&text=false" alt="Next.js">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=false" alt="Tailwind CSS">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=nodedotjs&text=false" alt="Node.js">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=express&text=false" alt="Express.js">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=false" alt="TypeScript">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false" alt="JavaScript">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=go&text=false" alt="Go">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=dart&text=false" alt="Dart">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&text=false" alt="MongoDB">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=docker&text=false" alt="Docker">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false" alt="Linux">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,python,typescript,js,go,dart,flutter,nextjs,tailwind,nodejs,express,mongodb,docker,linux" />
+  </a>
 </p>
 
 ### 💻 Most Used Languages
