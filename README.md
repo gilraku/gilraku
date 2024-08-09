@@ -31,5 +31,5 @@ Aspiring **Cloud Engineer** with a passion for leveraging cloud technologies to 
 </p>
 
 ### 📫 Connect with Me
-- [LinkedIn: Gilang Swandaru](https://linkedin.com/in/gilang-swandaru){:target="_blank"}
-- [Email: Click to Copy](javascript:void(0); navigator.clipboard.writeText('gilangswandaru27@gmail.com'))
+- LinkedIn: [Gilang Swandaru](https://linkedin.com/in/gilang-swandaru)
+- Email: gilangswandaru27@gmail.com
