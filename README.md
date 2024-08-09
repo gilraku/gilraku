@@ -10,7 +10,7 @@ Aspiring **Cloud Engineer** with a passion for leveraging cloud technologies to 
 
 ### 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,typescript,go,python,postman&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,python,typescript,js,go,dart,flutter,nextjs,tailwind,nodejs,express,mongodb,docker,linux,react,terraform,postgres,mysql&perline=5)](https://skillicons.dev)
 
 ### 💻 Most Used Languages
 <p align="center">
