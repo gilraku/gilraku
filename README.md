@@ -23,4 +23,4 @@ Aspiring **Cloud Engineer** with a passion for leveraging cloud technologies to 
 
 ### 📫 Connect with Me
 - LinkedIn: [Gilang Swandaru](https://linkedin.com/in/gilang-swandaru)
-- Email: gilangswandaru27@gmail.com | gilang@altocumulus.com
+- Email: gilangswandaru27@gmail.com
