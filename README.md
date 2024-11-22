@@ -27,7 +27,7 @@ Aspiring **Cloud Engineer** and **DevOps Enthusiast** passionate about building 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,aws,gcp,terraform,docker,kubernetes,linux,prometheus,grafana,python,typescript,js,ansible,elasticsearch,postgres,mysql,k6&perline=6" />
+    <img src="https://skillicons.dev/icons?i=go,aws,gcp,terraform,docker,kubernetes,linux,prometheus,grafana,python,typescript,js,ansible,elasticsearch,postgres,mysql,jenkins&perline=6" />
   </a>
 </p>
 
