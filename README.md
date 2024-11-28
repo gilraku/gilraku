@@ -59,4 +59,3 @@ Aspiring **Cloud Engineer** and **DevOps Enthusiast** passionate about building 
 ## 📫 **Let's Connect!**
 
 - **LinkedIn**: [Gilang Swandaru](https://linkedin.com/in/gilang-swandaru)  
-- **Email**: gilangswandaru27@gmail.com
