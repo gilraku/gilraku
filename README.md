@@ -2,7 +2,7 @@
 
 > *"Just another junk-code-clearing junker diving headfirst into the cleanest lines of logic."*
 
-![Shangri-La Banner]([https://media.tenor.com/2aAz6rrpXK0AAAAd/shangri-la-frontier.gif](https://tenor.com/view/shangri-la-frontier-sunraku-emul-bilac-now-moving-shangri-la-frontier-sunraku-emul-bilac-gif-1248225951392562686))
+![Shangri-La Frontier](https://media.tenor.com/your-direct-link.gif](https://media1.tenor.com/m/EVKW47Atff4AAAAC/shangri-la-frontier-sunraku-emul-bilac-now-moving-shangri-la-frontier.gif)
 
 ---
 
