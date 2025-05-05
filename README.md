@@ -58,8 +58,16 @@
 
 ## 🗺️ Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glng-swndru&layout=compact&theme=tokyonight)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=glng-swndru&show_icons=true&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glng-swndru&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=glng-swndru&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
