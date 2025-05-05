@@ -73,4 +73,28 @@
 
 ---
 
+## 🧭 Contact the Player
+
+> *"Send a DM, drop a buff, or just ping me from your guild hall."*
+
+<div align="center">
+  
+  <a href="https://linkedin.com/in/gilang-swandaru" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://www.instagram.com/namaku_gilangg/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+
+  <a href="https://www.threads.net/@namaku_gilangg" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/Discord-gilangswandaru-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  
+</div>
+
+---
+
 Thanks for visiting my frontier. If you're coding too, may your merge conflicts be few and your logs always verbose. ⚔️🛠️📡
