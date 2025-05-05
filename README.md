@@ -91,7 +91,9 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
   </a>
 
-  <img src="https://img.shields.io/badge/Discord-gilangswandaru-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <a href="https://discord.gg/K6jBKgbr" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
   
 </div>
 
