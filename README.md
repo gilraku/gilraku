@@ -20,7 +20,7 @@
 
 ---
 
-## 🎮 Side Quests (for fun & growth)
+## 🎮 Side Quests
 
 📚 Reading *The DevOps Handbook* – current chapter: CI/CD strategies  
 🧪 Rebuilding old projects with new tools  
