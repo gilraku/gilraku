@@ -1,62 +1,65 @@
-# 🗡️ Welcome to My Frontier
+# Hi, I'm Gilang Swandaru 👋
 
-> *"Just another junk-code-clearing junker diving headfirst into the cleanest lines of logic."*
+> *"A DevOps explorer and Cloud Engineer, passionate about building efficient, scalable systems and crafting clean, logical code."*
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/EVKW47Atff4AAAAC/shangri-la-frontier-sunraku-emul-bilac-now-moving-shangri-la-frontier.gif" alt="Shangri-La Frontier" />
+  <img src="https://media1.tenor.com/m/EVKW47Atff4AAAAC/shangri-la-frontier-sunraku-emul-bilac-now-moving-shangri-la-frontier.gif" alt="Exploring New Tech Frontiers" width="400"/>
 </div>
 
 ---
 
-## ⚔️ Main Quest
+## 🚀 What I'm Focused On
 
-👾 Gamer turned DevOps explorer  
-🧠 Grinding XP in: **Cloud Engineering | DevOps | Golang**  
-📍 Current path:  
-- 🌩️ Deploying infrastructure with Terraform  
-- 🛡️ Defending uptime with Monitoring & Logs  
-- 🐹 Slashing bugs in Go  
-- ☁️ Navigating cloud realms: AWS & GCP
+Currently leveling up my skills and experience in **Cloud Engineering, DevOps, and Golang**. My main quests involve:
 
----
-
-## 🎮 Side Quests
-
-📚 Reading *The DevOps Handbook* – current chapter: CI/CD strategies  
-🧪 Rebuilding old projects with new tools  
-🏋️‍♂️ IRL training at the gym after work  
-📼 Watching tech talks like they're plot-relevant cutscenes  
-🛏️ Resting before midnight for stat regen ⏰
+- 🌩️ Deploying and managing infrastructure with **Terraform**.
+- 🐳 Orchestrating and managing containerized applications with **Kubernetes** and **Docker**.
+- 🛡️ Ensuring system reliability and uptime through robust **Monitoring & Logging**.
+- 🐹 Developing and debugging applications in **Go (Golang)**.
+- ☁️ Navigating and building on cloud platforms, primarily **AWS & GCP**.
 
 ---
 
-## 🗃️ Inventory
+## 🌱 Currently Exploring & Learning
 
-- ☁️ **Cloud Platforms:**  
-  - 🟡 AWS (Certified – Practitioner)  
-  - 🔵 GCP (Certified – Cloud Engineer & Digital Leader)
+Always on a new adventure:
 
-- ⚙️ **DevOps Arsenal:**  
-  - 🧱 Terraform, Docker  
-  - 🔁 Git, GitHub Actions, CI/CD
-
-- 📡 **Monitoring & Logs:**  
-  - 📊 Prometheus + Grafana  
-  - 🔍 ELK Stack (Elasticsearch, Logstash, Kibana)  
-  - 📈 CloudWatch, GCP Ops
-
-- 🐹 **Language of choice:** Golang  
-- 🧪 Bonus tools: Bash, Markdown, VS Code
+- 📚 Diving deep into *The DevOps Handbook* – currently focused on CI/CD strategies.
+- 🧪 Modernizing past projects with new tools and best practices, including exploring advanced Kubernetes patterns.
+- 🏋️‍♂️ Staying active with regular gym sessions post-work.
+- 📼 Learning from tech talks and industry presentations.
+- 💡 Prioritizing rest and well-being to maintain peak performance.
 
 ---
 
-## 🧭 Motto
+## 🛠️ My Tech Stack & Tools
 
-> *"Don’t wait for the perfect build—run it, learn, reset, repeat. That’s how you reach endgame."*
+-   **☁️ Cloud Platforms:**
+    -   🟡 **AWS** (Certified Cloud Practitioner)
+    -   🔵 **GCP** (Certified Professional Cloud Engineer & Cloud Digital Leader)
+
+-   ⚙️ **DevOps Arsenal:**
+    -   🧱 Infrastructure as Code: **Terraform**
+    -   📦 Containerization & Orchestration: **Docker, Kubernetes**
+    -   🔁 Version Control & CI/CD: **Git, GitHub Actions**
+
+-   📡 **Monitoring & Logging:**
+    -   📊 **Prometheus + Grafana**
+    -   🔍 **ELK Stack** (Elasticsearch, Logstash, Kibana)
+    -   📈 **AWS CloudWatch, Google Cloud Operations Suite**
+
+-   🐹 **Primary Language:** **Golang**
+-   🧪 **Other Tools:** Bash, Markdown, VS Code
 
 ---
 
-## 🗺️ Stats
+## 💡 My Approach
+
+> *"Don’t wait for the perfect build—run it, learn, iterate, and repeat. That’s how you master the game."*
+
+---
+
+## 📊 My GitHub Stats
 
 <div align="center">
   <table>
@@ -73,30 +76,25 @@
 
 ---
 
-## 🧭 Contact the Player
+## 📫 Let's Connect!
 
-> *"Send a DM, drop a buff, or just ping me from your guild hall."*
+> *"Feel free to send a message, share some insights, or connect from your corner of the internet."*
 
 <div align="center">
-  
   <a href="https://linkedin.com/in/gilang-swandaru" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
   <a href="https://www.instagram.com/namaku_gilangg/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-
   <a href="https://www.threads.net/@namaku_gilangg" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
   </a>
-
   <a href="https://discord.gg/K6jBKgbr" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  
 </div>
 
 ---
 
-Thanks for visiting my frontier. If you're coding too, may your merge conflicts be few and your logs always verbose. ⚔️🛠️📡
+Thanks for stopping by! May your deployments be smooth and your logs informative. 🚀✨
