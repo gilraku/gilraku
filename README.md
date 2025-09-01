@@ -52,7 +52,7 @@
 -   **⚡ Languages & Tools:**  
     -   🐹 **Golang**  
     -   🐚 Bash  
-    -   📜 Markdown, VS Code  
+    -   📜 Python
 
 ---
 
