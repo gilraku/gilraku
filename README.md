@@ -10,7 +10,6 @@
 ```
 
 ### Cloud & Cybersecurity | GRC | AI Enthusiast
-### 🌍 Tabalong, South Kalimantan, Indonesia
 
 [![GitHub followers](https://img.shields.io/github/followers/gilraku?label=Followers&style=social)](https://github.com/gilraku)
 [![GitHub Stars](https://img.shields.io/github/stars/gilraku?label=Stars&style=social)](https://github.com/gilraku)
@@ -27,16 +26,11 @@
 name: Gilang
 location: Tabalong, South Kalimantan 🇮🇩
 pronouns: he/him
-company: AltoCumulus
 focus:
   - Cloud Security & Infrastructure
   - Cybersecurity (Blue Team / Detection Engineering)
   - GRC (Governance, Risk & Compliance)
   - AI & Automation
-currently_building:
-  - Splunk SIEM home lab on Linux
-  - Malware analysis workflows (MITRE ATT&CK mapped)
-  - EKP Digital — regulatory compliance management system
 ```
 
 ---
@@ -130,16 +124,6 @@ currently_building:
 - ☁️ **Cloud** — GCP, Cloud Run, containerized deployments
 - 🤖 **AI Tools** — Claude Code, Gemini, Antigravity
 - 📚 **Learning** — BTL1 / SOC analyst certification path
-
----
-
-## 📬 Connect
-
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gilang--swandaru-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilang-swandaru/)
-[![Email](https://img.shields.io/badge/Email-gilangswandaru27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilangswandaru27@gmail.com)
- 
-</div>
 
 ---
 
