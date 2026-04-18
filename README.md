@@ -1,7 +1,22 @@
+<!--
+  ✦ ·  · ✦ · ✦  ·   · ✦ ·   ✦  · ✦ ·  · ✦
+-->
+
+```
+        .         .           .         .
+   .  ✦       .        ✦  .       .        ✦
+        .    ✦    .                 ✦    .
+  ✦         .         .    ✦              .
+```
+
 # Hi, I'm Gilang 👋
 
-Cloud & Cybersecurity | GRC | AI Enthusiast  
-📍 Tabalong, South Kalimantan, Indonesia
+Cloud & Cybersecurity · GRC · AI Enthusiast
+
+---
+
+> *"Every star you see in the night sky is bigger and brighter than our sun."*  
+> — Andy Weir, Project Hail Mary
 
 ---
 
@@ -27,7 +42,17 @@ Static & dynamic analysis of AZORult/Loki sample — 20 MITRE ATT&CK techniques 
 
 ---
 
+```
+  ○  Mercury  ◉  Earth    ◎  Saturn
+   ·  Venus   ○  Mars     ○  Uranus
+                          ·  Neptune  ✦ beyond
+```
+
+---
+
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gilang--swandaru-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilang-swandaru/)
 [![Gmail](https://img.shields.io/badge/Gmail-gilangswandaru27-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gilangswandaru27@gmail.com)
+
+<!--  · ✦ · · ✦ · Artemis II · 2025 · ✦ · · ✦ · -->
