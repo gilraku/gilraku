@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gopher-hero.svg" alt="Gilang Swandaru — I love Go. An animated Go gopher waves beside a terminal." width="100%" />
+  <img src="assets/gopher-hero.svg?v=2" alt="Gilang Swandaru — I love Go. An animated Go gopher waves beside a terminal." width="100%" />
 </p>
 
 <p align="center">
