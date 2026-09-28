@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="assets/gopher-hero.svg" alt="Gilang Swandaru — I love Go. Exploring cybersecurity and cloud computing. An animated gopher waves beside a terminal." width="100%" />
+  <img src="assets/gopher-hero.svg" alt="Gilang Swandaru — I love Go. An animated Go gopher waves beside a terminal." width="100%" />
 </p>
 
 <p align="center">
-  Go enthusiast · Cybersecurity learner · Cloud computing explorer
+  <sub>Go gopher designed by <a href="https://go.dev/blog/gopher">Renée French</a> (CC BY 4.0). Vector by <a href="https://github.com/golang-samples/gopher-vector">Takuya Ueda</a> (CC BY 3.0); animation adapted for this profile.</sub>
 </p>
