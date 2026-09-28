@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gilraku/gilraku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gilang 👋
 
-Here are some ideas to get you started:
+### I ❤️ Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build useful tools and enjoy learning **cybersecurity** and **cloud computing**.
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Cybersecurity-203B5F?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-4976B7?style=flat-square&amp;logo=googlecloud&amp;logoColor=white" alt="Cloud Computing" />
+</p>
+
+🌐 [gilangs.com](https://gilangs.com)
+
+</div>
