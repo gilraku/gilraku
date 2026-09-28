@@ -66,7 +66,7 @@
     </rect>
 
     <!-- Go gopher design by Renée French; vector by Takuya Ueda (CC BY 3.0). Adapted for this profile. -->
-    <g id="gopher" transform="translate(856 129) scale(.95)">
+    <g id="gopher" transform="translate(836 58) scale(1.27)">
       <g>
         <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3s" repeatCount="indefinite"/>
 
